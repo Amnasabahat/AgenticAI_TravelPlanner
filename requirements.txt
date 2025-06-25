@@ -1,7 +1,9 @@
-gradio
-flask
+gradio==5.34.2
 google-api-python-client
 google-auth-oauthlib
 pandas
 requests
 python-dotenv
+openai
+google-generativeai
+tabulate
