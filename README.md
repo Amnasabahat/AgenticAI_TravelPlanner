@@ -43,8 +43,6 @@ This project is open for collaboration, suggestions, and improvements. If you're
 
 📧 **Contact**:  
 For feedback, queries, or customization requests, reach out to:
-
-- **Amna Sabahat**    
 - GitHub: [@amnasabahat](https://github.com/amnasabahat)
 
 ---
